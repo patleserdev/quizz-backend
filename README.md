@@ -37,4 +37,4 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 Commencez par cloner le projet sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/quizz-backend.git
+git clone https://github.com/patleserdev/quizz-backend
