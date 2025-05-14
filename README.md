@@ -24,6 +24,12 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 - **Node.js** : [Télécharger Node.js](https://nodejs.org/)
 - **Yarn** ou **npm** : [Yarn](https://yarnpkg.com/) ou [npm](https://www.npmjs.com/)
 
+## Modules validés
+
+- Sytème d'authentification
+- Routes api sécurisées des utilisateurs 
+- Routes api sécurisées des catégories 
+
 ## 🚀 Installation
 
 ### 1. Clonez ce repository
