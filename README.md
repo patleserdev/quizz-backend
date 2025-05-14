@@ -14,6 +14,7 @@ A terme, des fonctionnalités avancées viendront enrichir cette API, notamment 
 
 - Un **tableau des scores**.
 - La possibilité pour les utilisateurs de créer ou de participer à des **quizs personnalisés**.
+- La documentation API avec **Swagger**
 
 ---
 
@@ -27,8 +28,9 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 ## Modules validés
 
 - Sytème d'authentification
-- Routes api sécurisées des utilisateurs 
-- Routes api sécurisées des catégories 
+- Routes api sécurisées des utilisateurs
+- Routes api sécurisées des catégories
+- Mise en place de Swapper pour la documentation de l'API
 
 ## 🚀 Installation
 
@@ -38,3 +40,5 @@ Commencez par cloner le projet sur votre machine locale :
 
 ```bash
 git clone https://github.com/patleserdev/quizz-backend
+
+
